@@ -1,5 +1,3 @@
-from fileinput import filename
-from genericpath import isfile
 import logging
 from types import new_class
 import uuid

@@ -60,7 +60,7 @@ def populate_stats():
     chlorine_list = response_damaged_parts.json()
 
     logger.info(f"Number of ph level events received {results[0].num_phlevel_reading}")
-    logger.info(f"Number of chlorine level events received {results[0].num_chlorine_level_reading}")
+    logger.info(f"Number of chlorine level events received {results[0].num_chlorine_level}")
     if response_orders_received.status_code != 200: 
         logger.error(f"Status code received {response_orders_received.status_code}")
 
@@ -70,7 +70,7 @@ def populate_stats():
         max_phlevel_reading = results[0].max_phlevel_reading
         max_chlorine_level = results[0].max_chlorine_level
         max_water_level = results[0].max_water_level
-        num_chlorine_level_reading = results[0].num_chlorine_level_reading + len(chlorine_list)
+        num_chlorine_level = results[0].num_chlorine_level + len(chlorine_list)
         last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
 
     
@@ -79,7 +79,7 @@ def populate_stats():
         max_phlevel_reading = 0
         max_chlorine_level = 0
         max_water_level =0
-        num_chlorine_level_reading = len(chlorine_list)
+        num_chlorine_level = len(chlorine_list)
         last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
 
     session = DB_SESSION()
@@ -101,7 +101,7 @@ def populate_stats():
         max_phlevel_reading,
         max_water_level,
         max_chlorine_level,
-        num_chlorine_level_reading,
+        num_chlorine_level,
         datetime.datetime.strptime(last_updated,
         "%Y-%m-%dT%H:%M:%S.%f"))
     logger.info('Period processing ending')
