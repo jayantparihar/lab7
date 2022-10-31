@@ -23,6 +23,38 @@ services:
       - /var/run/docker.sock:/var/run/docker.sock
     depends_on:
       - "zookeeper"
+  receiver:
+    image: receiver
+    ports:
+    - "8080:8080"
+    depends_on:
+    - "kafka"
+
+  storage:
+    image: storage
+    ports:
+    - "8090:8090"
+    depends_on:
+    - "kafka"
+    - "db"
+  
+  processing:
+    image: processing
+    ports:
+    - "8100:8100"
+    depends_on:
+    - "storage"
+    network_mode: "host"
+    
+  audit:
+    image: audit
+    ports:
+    - "8110:8110"
+    depends_on:
+    - "kafka"
+
+
+
   db:
     image: mysql:5.7
     restart: always
