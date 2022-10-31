@@ -1,0 +1,9 @@
+version: 1
+datastore:
+  filename: stats.sqlite
+scheduler:
+  period_sec: 5
+phlevel:
+  url: http://localhost:8090/phlevel?timestamp=
+chlorinelevel:
+  url: http://localhost:8090/chlorinelevel?timestamp=

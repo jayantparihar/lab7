@@ -1,0 +1,66 @@
+openapi: 3.0.0
+info:
+  title: Stats API
+  description: The API provides event stats
+  contact:
+    email: pariharjayant@yahoo.com
+  version: 1.0.0
+servers:
+- url: /
+tags:
+- name: Swimming pool testing 
+  description: Swimming pool testing
+paths:
+  /stats:
+    get:
+      tags:
+        - devices
+      summary: gets the event stats
+      operationId: app.get_stats
+      description: Gets ph level and chlorine level statistics
+      responses:
+        '200':
+          description: Successfully returned a list of phlevel and chlorine level events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    ReadingStats:
+      required:
+      - num_phlevel_reading
+      - max_phlevel_reading
+      - max_water_level
+      - max_chlorine_level
+      - num_chlorine_level
+      type: object
+      properties:
+        max_phlevel_reading:
+          type: integer
+          example: 9
+        max_water_level:
+          type: integer
+          example: 10000
+        max_chlorine_level:
+          type: integer
+          example: 8
+        num_phlevel_reading:
+          type: integer
+          example: 10000
+        num_chlorine_level:
+          type: integer
+          example: 10000
+    

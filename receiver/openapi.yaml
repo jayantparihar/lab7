@@ -1,0 +1,109 @@
+---
+openapi: 3.0.0
+info:
+  title: Swimming Pool Level
+  description: Swimming pool level monitoring system to monitor level of Chlorine and PH in the water.It will be used by swimming pools located in community hall,hotels,apartment buildings and homes.
+  version: "1.0"
+servers:
+- url: /
+tags:
+- name: devices
+  description: Operations available to swimming pool level checking machine
+paths:
+  /phlevel:
+    post:
+      tags:
+      - devices
+      summary: reports the ph level of the pool
+      description: adds a new ph level of the pool to the system
+      operationId: app.report_ph_level
+      requestBody:
+        description: Reading added
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/PHLevel'
+      responses:
+        "201":
+          description: item added
+        "400":
+          description: invalid input, object invalid
+  /chlorinelevel:
+    post:
+      tags:
+      - devices
+      summary: reports the chlorine level of the pool
+      description: adds a new chlorine level of the pool to the system
+      operationId: app.report_chlorine_level
+      requestBody:
+        description: Reading added
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/ChlorineLevel'
+      responses:
+        "200":
+          description: item added
+        "400":
+          description: invalid input, object invalid
+components:
+  schemas:
+    PHLevel:
+      required:
+      - location
+      - phlevel
+      - temperature
+      - device_id
+      - timestamp
+      - waterlevel
+      type: object
+      properties:
+        location:
+          type: string
+          format: uuid
+        waterlevel:
+          type: number
+          example: 12345
+        temperature:
+          type: number
+          example: 12345
+        device_id:
+          type: number
+          example: 12345
+        phlevel:
+          type: number
+          example: 7
+        timestamp:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+    ChlorineLevel:
+      required:
+      - chlorinelevel
+      - location
+      - temperature
+      - device_id
+      - timestamp
+      - waterlevel
+      type: object
+      properties:
+        location:
+          type: string
+          format: uuid
+        waterlevel:
+          type: number
+          example: 12345
+        temperature:
+          type: number
+          example: 12345
+        device_id:
+          type: number
+          example: 12345
+        chlorinelevel:
+          type: number
+          example: 7
+        timestamp:
+          type: string
+          format: date-time
+          example: 2016-08-29T09:12:33.001Z
+
