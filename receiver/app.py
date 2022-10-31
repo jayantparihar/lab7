@@ -40,7 +40,7 @@ def report_ph_level(body):
     host = str(app_config['events']['hostname'])+":"+ str(app_config['events']['port'])
     headers = { 'content-type': 'application/json' }
     client = KafkaClient(hosts=host)
-    topic = client.topics[str.encode(app_config['topic'])]
+    topic = client.topics[str.encode(app_config['events']['topic'])]
     producer = topic.get_sync_producer()
     msg = { "type": "ph_level",
         "datetime" :
