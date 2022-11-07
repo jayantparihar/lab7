@@ -30,6 +30,12 @@ def get_stats():
     logger.info('Request has been started')
     session = DB_SESSION()
     results = session.query(Stats).order_by(Stats.last_updated.desc())
+    if not results:
+        logger.error("Statistics does not exist")
+        return 404
+    
+    #logger.debug(f"contents of python dictionary {results[-1].to_dict()}")
+    logger.info("The request has been completed")
     session.close()
     return results[0].to_dict(), 200
 
@@ -71,8 +77,7 @@ def populate_stats():
         max_chlorine_level = results[0].max_chlorine_level
         max_water_level = results[0].max_water_level
         num_chlorine_level = results[0].num_chlorine_level + len(chlorine_list)
-        last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
-
+  
     
     except IndexError:
         num_phlevel_reading = len(ph_list)
@@ -80,10 +85,12 @@ def populate_stats():
         max_chlorine_level = 0
         max_water_level =0
         num_chlorine_level = len(chlorine_list)
-        last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
+    
+    last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
 
     session = DB_SESSION()
     for i in ph_list:
+        logger.debug(f"new event with a trace id of {i['trace_id']}")
         if i["phlevel"] >  max_phlevel_reading:
             max_phlevel_reading = i["phlevel"] 
         if i["waterlevel"] > max_water_level:
@@ -104,6 +111,7 @@ def populate_stats():
         num_chlorine_level,
         datetime.datetime.strptime(last_updated,
         "%Y-%m-%dT%H:%M:%S.%f"))
+    logger.debug(f"Updated statistics values : max_phlevel_reading ={max_phlevel_reading}, num_phlevel_reading ={num_phlevel_reading}, max_water_level = {max_water_level} , max_chlorine_level = {max_chlorine_level}, num_chlorine_level ={num_chlorine_level}")
     logger.info('Period processing ending')
     session.add(stats)
     session.commit()
