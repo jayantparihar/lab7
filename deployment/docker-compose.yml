@@ -53,7 +53,13 @@ services:
     depends_on:
     - "kafka"
 
-
+  dashboard:
+    image: dashboard
+    ports:
+    - "3000:3000"
+    depends_on:
+    - "processing"
+    - "audit_log"
 
   db:
     image: mysql:5.7
