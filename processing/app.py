@@ -87,20 +87,19 @@ def populate_stats():
         max_water_level =0
         num_chlorine_level = len(chlorine_list)
         last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
-    last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
 
     session = DB_SESSION()
-    for i in ph_list:
-        if i["phlevel"] >  max_phlevel_reading:
-            max_phlevel_reading = i["phlevel"] 
-        if i["waterlevel"] > max_water_level:
-            max_water_level = i["waterlevel"] 
+    # for i in ph_list:
+    #     if i["phlevel"] >  max_phlevel_reading:
+    #         max_phlevel_reading = i["phlevel"] 
+    #     if i["waterlevel"] > max_water_level:
+    #         max_water_level = i["waterlevel"] 
 
-    for i in chlorine_list:
-      if i["chlorinelevel"] > max_chlorine_level:
-        max_chlorine_level = i["chlorinelevel"]
-      if i["waterlevel"] > max_water_level:
-        max_water_level = i["waterlevel"] 
+    # for i in chlorine_list:
+    #   if i["chlorinelevel"] > max_chlorine_level:
+    #     max_chlorine_level = i["chlorinelevel"]
+    #   if i["waterlevel"] > max_water_level:
+    #     max_water_level = i["waterlevel"] 
 
     session = DB_SESSION()
 
