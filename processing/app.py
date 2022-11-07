@@ -88,7 +88,6 @@ def populate_stats():
         num_chlorine_level = len(chlorine_list)
         last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
 
-    session = DB_SESSION()
     # for i in ph_list:
     #     if i["phlevel"] >  max_phlevel_reading:
     #         max_phlevel_reading = i["phlevel"] 
