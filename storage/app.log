@@ -3019,3 +3019,220 @@
 2022-10-31 09:29:21,736 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 3 results
 2022-10-31 09:29:24,562 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 0 results
 2022-10-31 09:29:26,724 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 3 results
+2022-11-01 10:14:51,953 - basicLogger - DEBUG - Connecting to database acit3855.westus3.cloudapp.azure.com 3306 events
+2022-11-01 10:14:52,735 - basicLogger - DEBUG - Connecting to database acit3855.westus3.cloudapp.azure.com 3306 events
+2022-11-01 10:16:53,491 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:16:56,058 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:17:03,306 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:17:05,666 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:17:08,254 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:17:10,665 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:17:13,464 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:17:15,964 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:17:23,377 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:17:26,105 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:17:33,470 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:17:35,869 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:17:38,267 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:17:40,682 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:17:43,467 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:17:45,867 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:18:52,462 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:18:54,866 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:18:57,466 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:18:59,855 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:20:00,263 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:20:02,779 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:20:05,563 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:20:08,062 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:22:57,858 - basicLogger - INFO - Query for Ph Level readings after 2022-10-24T14:43:49.986582 returns 54 results
+2022-11-01 10:23:00,266 - basicLogger - INFO - Query for Chlroine level after 2022-10-24T14:43:49.986582 returns 57 results
+2022-11-01 10:23:03,063 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:23:00.284346 returns 20 results
+2022-11-01 10:23:05,565 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:23:00.284346 returns 20 results
+2022-11-01 10:23:12,879 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:23:05.580736 returns 20 results
+2022-11-01 10:23:15,278 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:23:05.580736 returns 20 results
+2022-11-01 10:23:17,858 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:23:15.294297 returns 20 results
+2022-11-01 10:23:20,269 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:23:15.294297 returns 20 results
+2022-11-01 10:23:22,857 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:23:20.288836 returns 20 results
+2022-11-01 10:23:25,259 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:23:20.288836 returns 20 results
+2022-11-01 10:23:28,066 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:23:25.271131 returns 20 results
+2022-11-01 10:23:30,651 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:23:25.271131 returns 20 results
+2022-11-01 10:23:37,866 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:23:30.671048 returns 20 results
+2022-11-01 10:23:40,461 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:23:30.671048 returns 20 results
+2022-11-01 10:23:47,865 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:23:40.482109 returns 20 results
+2022-11-01 10:23:50,453 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:23:40.482109 returns 20 results
+2022-11-01 10:23:57,953 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:23:50.466136 returns 20 results
+2022-11-01 10:24:00,451 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:23:50.466136 returns 20 results
+2022-11-01 10:24:08,164 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:24:00.487826 returns 20 results
+2022-11-01 10:24:10,653 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:24:00.487826 returns 20 results
+2022-11-01 10:24:18,060 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:24:10.667729 returns 20 results
+2022-11-01 10:24:20,476 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:24:10.667729 returns 20 results
+2022-11-01 10:24:27,975 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:24:20.495444 returns 20 results
+2022-11-01 10:24:30,462 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:24:20.495444 returns 20 results
+2022-11-01 10:24:37,864 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:24:30.485865 returns 20 results
+2022-11-01 10:24:40,688 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:24:30.485865 returns 20 results
+2022-11-01 10:24:47,998 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:24:40.707327 returns 20 results
+2022-11-01 10:24:50,573 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:24:40.707327 returns 20 results
+2022-11-01 10:24:57,959 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:24:50.601093 returns 20 results
+2022-11-01 10:25:00,267 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:24:50.601093 returns 20 results
+2022-11-01 10:25:02,777 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:00.286017 returns 20 results
+2022-11-01 10:25:05,161 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:00.286017 returns 20 results
+2022-11-01 10:25:07,761 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:05.179032 returns 20 results
+2022-11-01 10:25:10,265 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:05.179032 returns 20 results
+2022-11-01 10:25:12,977 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:10.290231 returns 20 results
+2022-11-01 10:25:15,372 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:10.290231 returns 20 results
+2022-11-01 10:25:17,772 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:15.387636 returns 20 results
+2022-11-01 10:25:20,166 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:15.387636 returns 20 results
+2022-11-01 10:25:22,959 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:20.191071 returns 20 results
+2022-11-01 10:25:25,462 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:20.191071 returns 20 results
+2022-11-01 10:25:33,051 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:25.481892 returns 20 results
+2022-11-01 10:25:35,664 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:25.481892 returns 20 results
+2022-11-01 10:25:42,957 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:35.701536 returns 20 results
+2022-11-01 10:25:45,365 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:35.701536 returns 20 results
+2022-11-01 10:26:00,571 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:26:02,961 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:26:05,558 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:26:07,858 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:26:10,462 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:26:12,851 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:26:15,460 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:26:17,956 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:26:20,656 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:26:22,956 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:26:25,365 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:26:27,871 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:28:02,653 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:28:05,136 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:29:12,559 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:29:14,982 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:25:45.385402 returns 20 results
+2022-11-01 10:29:17,483 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:29:15.000865 returns 20 results
+2022-11-01 10:29:20,165 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:29:15.000865 returns 20 results
+2022-11-01 10:29:27,669 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:29:20.188536 returns 20 results
+2022-11-01 10:29:30,072 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:29:20.188536 returns 20 results
+2022-11-01 10:29:32,563 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:29:30.092899 returns 20 results
+2022-11-01 10:29:34,958 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:29:30.092899 returns 20 results
+2022-11-01 10:29:37,511 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:29:34.973646 returns 20 results
+2022-11-01 10:29:39,966 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:29:34.973646 returns 20 results
+2022-11-01 10:29:42,661 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:29:39.981963 returns 20 results
+2022-11-01 10:29:45,077 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:29:39.981963 returns 20 results
+2022-11-01 10:29:47,561 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:29:45.128545 returns 20 results
+2022-11-01 10:29:50,171 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:29:45.128545 returns 20 results
+2022-11-01 10:29:57,661 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:29:50.195048 returns 20 results
+2022-11-01 10:30:00,164 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:29:50.195048 returns 20 results
+2022-11-01 10:35:22,657 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:30:00.193100 returns 20 results
+2022-11-01 10:35:27,414 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:30:00.193100 returns 20 results
+2022-11-01 10:35:29,856 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:30:00.193100 returns 20 results
+2022-11-01 10:35:54,895 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:30:00.193100 returns 20 results
+2022-11-01 10:35:57,186 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:30:00.193100 returns 20 results
+2022-11-01 10:35:59,954 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:30:00.193100 returns 20 results
+2022-11-01 10:36:02,370 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:30:00.193100 returns 20 results
+2022-11-01 10:36:04,779 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:30:00.193100 returns 20 results
+2022-11-01 10:36:07,380 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:30:00.193100 returns 20 results
+2022-11-01 10:51:17,610 - basicLogger - DEBUG - Connecting to database acit3855.westus3.cloudapp.azure.com 3306 events
+2022-11-01 10:51:18,392 - basicLogger - DEBUG - Connecting to database acit3855.westus3.cloudapp.azure.com 3306 events
+2022-11-01 10:51:18,885 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 54 results
+2022-11-01 10:51:21,363 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 58 results
+2022-11-01 10:51:28,963 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 54 results
+2022-11-01 10:51:31,607 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 58 results
+2022-11-01 10:51:38,972 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 54 results
+2022-11-01 10:51:41,373 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 58 results
+2022-11-01 10:51:55,568 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 54 results
+2022-11-01 10:51:58,066 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 58 results
+2022-11-01 10:52:00,502 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 54 results
+2022-11-01 10:52:02,948 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 58 results
+2022-11-01 10:52:05,635 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 54 results
+2022-11-01 10:52:08,373 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 58 results
+2022-11-01 10:52:09,168 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:52:01', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 7, 'temperature': 13, 'device_id': 42208, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 7487, 'trace_id': 'e18050c7-ccc1-4365-83f3-d9ce91be5974'}}
+2022-11-01 10:52:11,608 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:52:03', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 2, 'temperature': 10, 'device_id': 90572, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 3935, 'trace_id': '55e2a321-3dbb-48a6-8898-24cdbd5e0b57'}}
+2022-11-01 10:52:14,253 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:52:06', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 7, 'temperature': 13, 'device_id': 42208, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 7487, 'trace_id': '908de8df-bde6-42da-9b42-9683549c22a5'}}
+2022-11-01 10:52:14,255 - basicLogger - DEBUG - it gets here
+2022-11-01 10:52:15,671 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 56 results
+2022-11-01 10:52:16,727 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:52:08', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 2, 'temperature': 10, 'device_id': 90572, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 3935, 'trace_id': 'fdffc97d-70ff-435b-86b2-af3c8b331ee8'}}
+2022-11-01 10:52:16,732 - basicLogger - DEBUG - it gets here
+2022-11-01 10:52:18,264 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 60 results
+2022-11-01 10:52:19,354 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:52:11', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 2, 'temperature': 27, 'device_id': 49116, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 3676, 'trace_id': '0a473b05-aee7-4e98-a3e6-6a956da28502'}}
+2022-11-01 10:52:21,850 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:52:13', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 7, 'temperature': 29, 'device_id': 73475, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 1124, 'trace_id': '007ab03a-8477-4c9a-bdc4-17119ccb6672'}}
+2022-11-01 10:52:24,473 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:52:16', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 2, 'temperature': 27, 'device_id': 49116, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 3676, 'trace_id': '7c6e1076-ec9d-4a97-a0dd-1c8ddc280aeb'}}
+2022-11-01 10:52:24,477 - basicLogger - DEBUG - it gets here
+2022-11-01 10:52:25,678 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 58 results
+2022-11-01 10:52:26,956 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:52:19', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 7, 'temperature': 29, 'device_id': 73475, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 1124, 'trace_id': 'fcdbfcf6-127a-4a8a-8b71-849b78165354'}}
+2022-11-01 10:52:26,958 - basicLogger - DEBUG - it gets here
+2022-11-01 10:52:27,964 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 62 results
+2022-11-01 10:52:29,575 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:52:21', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 9, 'temperature': 36, 'device_id': 64500, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 4792, 'trace_id': 'bd38609e-7b49-40e3-868d-ae56a859bd6a'}}
+2022-11-01 10:52:30,670 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 59 results
+2022-11-01 10:52:32,116 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:52:24', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 5, 'temperature': 14, 'device_id': 79574, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 5349, 'trace_id': '1b530377-054a-4dc3-ae91-2ece7a8b970c'}}
+2022-11-01 10:52:33,064 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 62 results
+2022-11-01 10:52:34,688 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:52:26', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 9, 'temperature': 36, 'device_id': 64500, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 4792, 'trace_id': '926854cc-d866-4c43-a718-0c93d7ccac1d'}}
+2022-11-01 10:52:34,694 - basicLogger - DEBUG - it gets here
+2022-11-01 10:52:35,488 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 60 results
+2022-11-01 10:52:37,161 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:52:29', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 5, 'temperature': 14, 'device_id': 79574, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 5349, 'trace_id': '5ef34cff-2ff7-4801-8106-85bf928e92dc'}}
+2022-11-01 10:52:37,163 - basicLogger - DEBUG - it gets here
+2022-11-01 10:52:37,965 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 64 results
+2022-11-01 10:52:39,867 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:52:31', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 6, 'temperature': 27, 'device_id': 65641, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 6641, 'trace_id': '5a42f7a3-553d-4bcc-b52a-7578ef5738a3'}}
+2022-11-01 10:52:40,669 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 61 results
+2022-11-01 10:52:42,321 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:52:34', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 2, 'temperature': 8, 'device_id': 99166, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 1845, 'trace_id': '8c95be5e-dded-4071-ad28-59ff0de0e428'}}
+2022-11-01 10:52:43,061 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 64 results
+2022-11-01 10:52:44,963 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:52:36', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 6, 'temperature': 27, 'device_id': 65641, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 6641, 'trace_id': '558c2dcf-b433-46d3-a69a-f0cd3510ae39'}}
+2022-11-01 10:52:44,965 - basicLogger - DEBUG - it gets here
+2022-11-01 10:52:45,470 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 62 results
+2022-11-01 10:52:47,369 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:52:39', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 2, 'temperature': 8, 'device_id': 99166, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 1845, 'trace_id': 'afa44695-a12a-449d-b0fc-3d44bc0d5deb'}}
+2022-11-01 10:52:47,371 - basicLogger - DEBUG - it gets here
+2022-11-01 10:52:47,869 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 66 results
+2022-11-01 10:52:50,051 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:52:42', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 2, 'temperature': 33, 'device_id': 79727, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 9264, 'trace_id': '05197879-764f-48da-8551-2be1e003db35'}}
+2022-11-01 10:52:50,773 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 63 results
+2022-11-01 10:52:52,468 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:52:44', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 2, 'temperature': 33, 'device_id': 37670, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 1450, 'trace_id': '86f0e6d2-c2f1-4d60-97b2-33d431d5a42c'}}
+2022-11-01 10:52:53,169 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 66 results
+2022-11-01 10:52:55,218 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:52:47', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 2, 'temperature': 33, 'device_id': 79727, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 9264, 'trace_id': '2a8ec5f4-5cfa-4d7f-9db0-02f01911e1da'}}
+2022-11-01 10:52:55,229 - basicLogger - DEBUG - it gets here
+2022-11-01 10:52:57,605 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:52:49', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 2, 'temperature': 33, 'device_id': 37670, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 1450, 'trace_id': '3dfa3cc8-18fb-4bcc-b546-d084ba727532'}}
+2022-11-01 10:52:57,607 - basicLogger - DEBUG - it gets here
+2022-11-01 10:53:00,292 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:52:52', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 8, 'temperature': 19, 'device_id': 63030, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 9379, 'trace_id': '296100e7-b8fe-4b83-af9f-387bf48e2ea0'}}
+2022-11-01 10:53:02,676 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:52:54', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 8, 'temperature': 5, 'device_id': 96816, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 2159, 'trace_id': '913f89af-30b5-47f9-999c-a3439844ad37'}}
+2022-11-01 10:53:05,473 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:52:57', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 8, 'temperature': 19, 'device_id': 63030, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 9379, 'trace_id': '22d7c72d-d770-4ba6-b72b-b8a29c6791be'}}
+2022-11-01 10:53:05,474 - basicLogger - DEBUG - it gets here
+2022-11-01 10:53:07,762 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:52:59', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 8, 'temperature': 5, 'device_id': 96816, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 2159, 'trace_id': '58eb6ec7-037d-4ee4-b58c-0f31b46f06c3'}}
+2022-11-01 10:53:07,764 - basicLogger - DEBUG - it gets here
+2022-11-01 10:53:17,462 - basicLogger - DEBUG - Connecting to database acit3855.westus3.cloudapp.azure.com 3306 events
+2022-11-01 10:53:18,199 - basicLogger - DEBUG - Connecting to database acit3855.westus3.cloudapp.azure.com 3306 events
+2022-11-01 10:53:18,719 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:53:02', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 2, 'temperature': 29, 'device_id': 22621, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 8372, 'trace_id': 'd296a97b-3035-4793-9c00-be1cf70792f5'}}
+2022-11-01 10:53:18,904 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:53:05', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 1, 'temperature': 12, 'device_id': 52172, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 4383, 'trace_id': '73a55a68-8137-47ac-8de4-280d37e95e1a'}}
+2022-11-01 10:53:19,075 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:53:07', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 2, 'temperature': 29, 'device_id': 22621, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 8372, 'trace_id': '9c73ca15-32bf-40da-bd08-b39fb8bae771'}}
+2022-11-01 10:53:19,077 - basicLogger - DEBUG - it gets here
+2022-11-01 10:53:19,327 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:53:10', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 1, 'temperature': 12, 'device_id': 52172, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 4383, 'trace_id': 'a21d28e3-6322-4998-92bd-d59a9ecc108c'}}
+2022-11-01 10:53:19,330 - basicLogger - DEBUG - it gets here
+2022-11-01 10:53:20,940 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:53:13', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 1, 'temperature': 27, 'device_id': 28074, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 8836, 'trace_id': '86b86cc6-4dcc-47f7-82c6-28421d037dfb'}}
+2022-11-01 10:53:23,208 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:53:15', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 8, 'temperature': 29, 'device_id': 97634, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 3475, 'trace_id': '43edb5d4-328c-41f1-8356-19e81b94d2f6'}}
+2022-11-01 10:53:26,061 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:53:18', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 1, 'temperature': 27, 'device_id': 28074, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 8836, 'trace_id': '9d858219-5168-42b8-bb86-1215df1b58c3'}}
+2022-11-01 10:53:26,063 - basicLogger - DEBUG - it gets here
+2022-11-01 10:53:26,878 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 70 results
+2022-11-01 10:53:28,254 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:53:20', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 8, 'temperature': 29, 'device_id': 97634, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 3475, 'trace_id': 'b92720ed-60ae-4b71-b79c-479956c2130c'}}
+2022-11-01 10:53:28,255 - basicLogger - DEBUG - it gets here
+2022-11-01 10:53:29,364 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 74 results
+2022-11-01 10:53:31,197 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:53:23', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 3, 'temperature': 27, 'device_id': 97455, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 8646, 'trace_id': 'c296f0a4-ac02-46a5-ba79-ffe8e7441adc'}}
+2022-11-01 10:53:33,353 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:53:25', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 4, 'temperature': 39, 'device_id': 13468, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 6002, 'trace_id': 'cdba4686-5a2a-4049-955c-5b10b96d4dd8'}}
+2022-11-01 10:53:36,301 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:53:28', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 3, 'temperature': 27, 'device_id': 97455, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 8646, 'trace_id': 'a6ddde39-e24c-4798-884b-bc018986f9ae'}}
+2022-11-01 10:53:36,304 - basicLogger - DEBUG - it gets here
+2022-11-01 10:53:38,468 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:53:30', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 4, 'temperature': 39, 'device_id': 13468, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 6002, 'trace_id': '10ac5778-c749-411e-ad58-698537593cb5'}}
+2022-11-01 10:53:38,470 - basicLogger - DEBUG - it gets here
+2022-11-01 10:53:41,553 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:53:33', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 7, 'temperature': 15, 'device_id': 15423, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 9323, 'trace_id': '0cc73c37-ea5f-475e-a648-d1ef4e95ae60'}}
+2022-11-01 10:53:43,593 - basicLogger - INFO - Message: {'type': 'ph_level', 'datetime': '2022-11-01T17:53:35', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'phlevel': 6, 'temperature': 12, 'device_id': 24888, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 4241, 'trace_id': '51d9de8e-feec-441e-b361-ae70108b9374'}}
+2022-11-01 10:53:46,657 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:53:38', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 7, 'temperature': 15, 'device_id': 15423, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 9323, 'trace_id': '45c61ede-b024-4dc4-bea4-3d06e782a5d7'}}
+2022-11-01 10:53:46,658 - basicLogger - DEBUG - it gets here
+2022-11-01 10:53:48,683 - basicLogger - INFO - Message: {'type': 'chlorine_level', 'datetime': '2022-11-01T17:53:40', 'payload': {'location': '3fa85f64-5717-4562-b3fc-2', 'chlorinelevel': 6, 'temperature': 12, 'device_id': 24888, 'timestamp': '2016-08-29T09:12:33.001000+00:00', 'waterlevel': 4241, 'trace_id': 'edd4f52b-0ec5-4b63-a50c-9b554dae804a'}}
+2022-11-01 10:53:48,688 - basicLogger - DEBUG - it gets here
+2022-11-01 10:54:24,568 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 74 results
+2022-11-01 10:54:27,070 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 78 results
+2022-11-01 10:54:29,762 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 74 results
+2022-11-01 10:54:32,171 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 78 results
+2022-11-01 10:54:34,759 - basicLogger - INFO - Query for Ph Level readings after 2016-08-29T09:12:33.001000 returns 74 results
+2022-11-01 10:54:37,261 - basicLogger - INFO - Query for Chlroine level after 2016-08-29T09:12:33.001000 returns 78 results
+2022-11-01 10:59:30,510 - basicLogger - DEBUG - Connecting to database acit3855.westus3.cloudapp.azure.com 3306 events
+2022-11-01 10:59:31,270 - basicLogger - DEBUG - Connecting to database acit3855.westus3.cloudapp.azure.com 3306 events
+2022-11-01 10:59:54,480 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:57:56.954455 returns 20 results
+2022-11-01 10:59:56,957 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:57:56.954455 returns 21 results
+2022-11-01 10:59:59,459 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:57:56.954455 returns 20 results
+2022-11-01 11:00:01,784 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:57:56.954455 returns 21 results
+2022-11-01 11:00:27,665 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:57:56.954455 returns 20 results
+2022-11-01 11:00:29,970 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:57:56.954455 returns 21 results
+2022-11-01 11:00:32,672 - basicLogger - INFO - Query for Ph Level readings after 2022-11-01T10:57:56.954455 returns 20 results
+2022-11-01 11:00:35,270 - basicLogger - INFO - Query for Chlroine level after 2022-11-01T10:57:56.954455 returns 21 results

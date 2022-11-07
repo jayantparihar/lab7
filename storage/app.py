@@ -44,46 +44,14 @@ logger.debug("Connecting to database %s %s %s",hostname,port,db)
 def report_ph_level(body):
     """ Receives a ph_level reading """
     pass
-    # session = DB_SESSION()
 
-    # ph = PhLevel(body['location'],
-    #                     body['phlevel'],
-    #                    body['temperature'],
-    #                    body['device_id'],
-    #                    body['timestamp'],
-    #                    body['waterlevel'],
-    #                    body["trace_id"]
-    #                     )
-
-    # session.add(ph)
-    # session.commit()
-    # session.close()
-    # logger.debug("Stored event - PH level request with a trace id of %s",body["trace_id"])
-
-    # return NoContent, 201
 
 
 def report_chlorine_level(body):
 
     """ Receives a chlorine level reading """
     pass
-    # session = DB_SESSION()
 
-    # cl = ChlorineLevel(body['location'],
-    #                    body['chlorinelevel'],
-    #                    body['temperature'],
-    #                    body['device_id'],
-    #                    body['timestamp'],
-    #                    body['waterlevel'],
-    #                    body["trace_id"])
-
-    # session.add(cl)
-    # session.commit()
-    # session.close()
-    # logger.debug("Stored event - Chlorine level request with a trace id of %s",body["trace_id"])
-
-
-    # return NoContent, 201
 
 def get_ph_level_readings(timestamp):
     """ Gets ph level readings after the timestamp """

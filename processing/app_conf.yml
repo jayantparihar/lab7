@@ -4,6 +4,6 @@ datastore:
 scheduler:
   period_sec: 5
 phlevel:
-  url: http://localhost:8090/phlevel?timestamp=
+  url: http://acit3855.westus3.cloudapp.azure.com:8090/phlevel?timestamp=
 chlorinelevel:
-  url: http://localhost:8090/chlorinelevel?timestamp=
+  url: http://acit3855.westus3.cloudapp.azure.com:8090/chlorinelevel?timestamp=

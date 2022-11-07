@@ -7067,3 +7067,584 @@
 2022-10-31 09:29:26,729 - basicLogger - INFO - Number of ph level events received 6
 2022-10-31 09:29:27,401 - basicLogger - INFO - Period processing has been started
 2022-10-31 09:29:27,402 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:16:50,959 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:16:50,966 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:16:56,065 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:16:56,067 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:16:56,068 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:17:01,056 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:17:01,056 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:17:05,673 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:17:05,673 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:17:05,673 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:17:05,976 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:17:05,981 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:17:10,671 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:17:10,676 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:17:10,676 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:17:10,969 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:17:10,970 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:17:15,972 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:17:15,974 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:17:15,980 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:17:20,982 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:17:20,983 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:17:26,113 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:17:26,122 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:17:26,123 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:17:31,003 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:17:31,003 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:17:35,876 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:17:35,882 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:17:35,883 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:17:35,962 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:17:35,964 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:17:40,696 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:17:40,697 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:17:40,698 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:17:40,970 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:17:40,971 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:17:45,875 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:17:45,880 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:17:45,881 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:18:50,083 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:18:50,091 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:18:54,875 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:18:54,876 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:18:54,877 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:18:55,083 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:18:55,083 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:18:59,863 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:18:59,865 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:18:59,866 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:19:57,978 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:19:57,981 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:20:02,786 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:20:02,830 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:20:02,831 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:20:02,982 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:20:02,982 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:20:08,069 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:20:08,071 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:20:08,072 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:22:55,454 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:22:55,459 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:23:00,279 - basicLogger - INFO - Number of ph level events received 6
+2022-11-01 10:23:00,281 - basicLogger - INFO - Number of chlorine level events received 22
+2022-11-01 10:23:00,281 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:23:00,292 - basicLogger - INFO - Period processing ending
+2022-11-01 10:23:00,459 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:23:00,461 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:23:05,573 - basicLogger - INFO - Number of ph level events received 10
+2022-11-01 10:23:05,574 - basicLogger - INFO - Number of chlorine level events received 26
+2022-11-01 10:23:05,575 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:23:05,581 - basicLogger - INFO - Period processing ending
+2022-11-01 10:23:10,455 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:23:10,456 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:23:15,284 - basicLogger - INFO - Number of ph level events received 14
+2022-11-01 10:23:15,288 - basicLogger - INFO - Number of chlorine level events received 30
+2022-11-01 10:23:15,289 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:23:15,294 - basicLogger - INFO - Period processing ending
+2022-11-01 10:23:15,448 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:23:15,449 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:23:20,279 - basicLogger - INFO - Number of ph level events received 18
+2022-11-01 10:23:20,283 - basicLogger - INFO - Number of chlorine level events received 34
+2022-11-01 10:23:20,284 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:23:20,292 - basicLogger - INFO - Period processing ending
+2022-11-01 10:23:20,452 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:23:20,453 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:23:25,266 - basicLogger - INFO - Number of ph level events received 22
+2022-11-01 10:23:25,268 - basicLogger - INFO - Number of chlorine level events received 38
+2022-11-01 10:23:25,268 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:23:25,271 - basicLogger - INFO - Period processing ending
+2022-11-01 10:23:25,455 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:23:25,455 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:23:30,663 - basicLogger - INFO - Number of ph level events received 26
+2022-11-01 10:23:30,665 - basicLogger - INFO - Number of chlorine level events received 42
+2022-11-01 10:23:30,666 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:23:30,672 - basicLogger - INFO - Period processing ending
+2022-11-01 10:23:35,491 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:23:35,495 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:23:40,476 - basicLogger - INFO - Number of ph level events received 30
+2022-11-01 10:23:40,478 - basicLogger - INFO - Number of chlorine level events received 46
+2022-11-01 10:23:40,479 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:23:40,485 - basicLogger - INFO - Period processing ending
+2022-11-01 10:23:45,474 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:23:45,476 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:23:50,460 - basicLogger - INFO - Number of ph level events received 34
+2022-11-01 10:23:50,462 - basicLogger - INFO - Number of chlorine level events received 50
+2022-11-01 10:23:50,462 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:23:50,469 - basicLogger - INFO - Period processing ending
+2022-11-01 10:23:55,447 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:23:55,448 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:24:00,474 - basicLogger - INFO - Number of ph level events received 38
+2022-11-01 10:24:00,481 - basicLogger - INFO - Number of chlorine level events received 54
+2022-11-01 10:24:00,482 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:24:00,489 - basicLogger - INFO - Period processing ending
+2022-11-01 10:24:05,455 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:24:05,456 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:24:10,659 - basicLogger - INFO - Number of ph level events received 42
+2022-11-01 10:24:10,661 - basicLogger - INFO - Number of chlorine level events received 58
+2022-11-01 10:24:10,663 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:24:10,669 - basicLogger - INFO - Period processing ending
+2022-11-01 10:24:15,450 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:24:15,451 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:24:20,488 - basicLogger - INFO - Number of ph level events received 46
+2022-11-01 10:24:20,490 - basicLogger - INFO - Number of chlorine level events received 62
+2022-11-01 10:24:20,491 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:24:20,496 - basicLogger - INFO - Period processing ending
+2022-11-01 10:24:25,447 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:24:25,447 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:24:30,475 - basicLogger - INFO - Number of ph level events received 50
+2022-11-01 10:24:30,477 - basicLogger - INFO - Number of chlorine level events received 66
+2022-11-01 10:24:30,477 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:24:30,486 - basicLogger - INFO - Period processing ending
+2022-11-01 10:24:35,448 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:24:35,450 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:24:40,698 - basicLogger - INFO - Number of ph level events received 54
+2022-11-01 10:24:40,702 - basicLogger - INFO - Number of chlorine level events received 70
+2022-11-01 10:24:40,703 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:24:40,712 - basicLogger - INFO - Period processing ending
+2022-11-01 10:24:45,499 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:24:45,500 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:24:50,591 - basicLogger - INFO - Number of ph level events received 58
+2022-11-01 10:24:50,593 - basicLogger - INFO - Number of chlorine level events received 74
+2022-11-01 10:24:50,598 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:24:50,604 - basicLogger - INFO - Period processing ending
+2022-11-01 10:24:55,457 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:24:55,458 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:25:00,278 - basicLogger - INFO - Number of ph level events received 62
+2022-11-01 10:25:00,281 - basicLogger - INFO - Number of chlorine level events received 78
+2022-11-01 10:25:00,281 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:25:00,287 - basicLogger - INFO - Period processing ending
+2022-11-01 10:25:00,448 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:25:00,449 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:25:05,167 - basicLogger - INFO - Number of ph level events received 66
+2022-11-01 10:25:05,173 - basicLogger - INFO - Number of chlorine level events received 82
+2022-11-01 10:25:05,173 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:25:05,179 - basicLogger - INFO - Period processing ending
+2022-11-01 10:25:05,453 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:25:05,453 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:25:10,277 - basicLogger - INFO - Number of ph level events received 70
+2022-11-01 10:25:10,281 - basicLogger - INFO - Number of chlorine level events received 86
+2022-11-01 10:25:10,281 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:25:10,292 - basicLogger - INFO - Period processing ending
+2022-11-01 10:25:10,446 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:25:10,448 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:25:15,377 - basicLogger - INFO - Number of ph level events received 74
+2022-11-01 10:25:15,381 - basicLogger - INFO - Number of chlorine level events received 90
+2022-11-01 10:25:15,382 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:25:15,388 - basicLogger - INFO - Period processing ending
+2022-11-01 10:25:15,449 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:25:15,450 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:25:20,181 - basicLogger - INFO - Number of ph level events received 78
+2022-11-01 10:25:20,184 - basicLogger - INFO - Number of chlorine level events received 94
+2022-11-01 10:25:20,185 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:25:20,192 - basicLogger - INFO - Period processing ending
+2022-11-01 10:25:20,454 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:25:20,455 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:25:25,474 - basicLogger - INFO - Number of ph level events received 82
+2022-11-01 10:25:25,476 - basicLogger - INFO - Number of chlorine level events received 98
+2022-11-01 10:25:25,476 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:25:25,483 - basicLogger - INFO - Period processing ending
+2022-11-01 10:25:30,462 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:25:30,464 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:25:35,694 - basicLogger - INFO - Number of ph level events received 86
+2022-11-01 10:25:35,696 - basicLogger - INFO - Number of chlorine level events received 102
+2022-11-01 10:25:35,697 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:25:35,707 - basicLogger - INFO - Period processing ending
+2022-11-01 10:25:40,471 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:25:40,472 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:25:45,378 - basicLogger - INFO - Number of ph level events received 90
+2022-11-01 10:25:45,380 - basicLogger - INFO - Number of chlorine level events received 106
+2022-11-01 10:25:45,380 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:25:45,386 - basicLogger - INFO - Period processing ending
+2022-11-01 10:25:58,123 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:25:58,127 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:26:02,969 - basicLogger - INFO - Number of ph level events received 94
+2022-11-01 10:26:02,970 - basicLogger - INFO - Number of chlorine level events received 110
+2022-11-01 10:26:02,970 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:26:03,132 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:26:03,134 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:26:07,865 - basicLogger - INFO - Number of ph level events received 94
+2022-11-01 10:26:07,869 - basicLogger - INFO - Number of chlorine level events received 110
+2022-11-01 10:26:07,869 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:26:08,116 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:26:08,117 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:26:12,864 - basicLogger - INFO - Number of ph level events received 94
+2022-11-01 10:26:12,866 - basicLogger - INFO - Number of chlorine level events received 110
+2022-11-01 10:26:12,866 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:26:13,121 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:26:13,122 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:26:17,965 - basicLogger - INFO - Number of ph level events received 94
+2022-11-01 10:26:17,967 - basicLogger - INFO - Number of chlorine level events received 110
+2022-11-01 10:26:17,968 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:26:18,110 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:26:18,112 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:26:22,964 - basicLogger - INFO - Number of ph level events received 94
+2022-11-01 10:26:22,966 - basicLogger - INFO - Number of chlorine level events received 110
+2022-11-01 10:26:22,967 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:26:23,113 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:26:23,113 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:26:27,886 - basicLogger - INFO - Number of ph level events received 94
+2022-11-01 10:26:27,888 - basicLogger - INFO - Number of chlorine level events received 110
+2022-11-01 10:26:27,888 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:28:00,030 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:28:00,033 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:28:05,142 - basicLogger - INFO - Number of ph level events received 94
+2022-11-01 10:28:05,146 - basicLogger - INFO - Number of chlorine level events received 110
+2022-11-01 10:28:05,147 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:29:10,189 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:29:10,193 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:29:14,992 - basicLogger - INFO - Number of ph level events received 94
+2022-11-01 10:29:14,995 - basicLogger - INFO - Number of chlorine level events received 110
+2022-11-01 10:29:14,995 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:29:15,006 - basicLogger - INFO - Period processing ending
+2022-11-01 10:29:15,193 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:29:15,193 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:29:20,181 - basicLogger - INFO - Number of ph level events received 98
+2022-11-01 10:29:20,183 - basicLogger - INFO - Number of chlorine level events received 114
+2022-11-01 10:29:20,184 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:29:20,188 - basicLogger - INFO - Period processing ending
+2022-11-01 10:29:25,195 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:29:25,197 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:29:30,085 - basicLogger - INFO - Number of ph level events received 102
+2022-11-01 10:29:30,087 - basicLogger - INFO - Number of chlorine level events received 118
+2022-11-01 10:29:30,088 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:29:30,093 - basicLogger - INFO - Period processing ending
+2022-11-01 10:29:30,192 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:29:30,193 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:29:34,966 - basicLogger - INFO - Number of ph level events received 106
+2022-11-01 10:29:34,968 - basicLogger - INFO - Number of chlorine level events received 122
+2022-11-01 10:29:34,968 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:29:34,973 - basicLogger - INFO - Period processing ending
+2022-11-01 10:29:35,186 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:29:35,187 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:29:39,974 - basicLogger - INFO - Number of ph level events received 110
+2022-11-01 10:29:39,976 - basicLogger - INFO - Number of chlorine level events received 126
+2022-11-01 10:29:39,977 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:29:39,981 - basicLogger - INFO - Period processing ending
+2022-11-01 10:29:40,190 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:29:40,191 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:29:45,115 - basicLogger - INFO - Number of ph level events received 114
+2022-11-01 10:29:45,121 - basicLogger - INFO - Number of chlorine level events received 130
+2022-11-01 10:29:45,122 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:29:45,128 - basicLogger - INFO - Period processing ending
+2022-11-01 10:29:45,189 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:29:45,190 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:29:50,179 - basicLogger - INFO - Number of ph level events received 118
+2022-11-01 10:29:50,182 - basicLogger - INFO - Number of chlorine level events received 134
+2022-11-01 10:29:50,186 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:29:50,195 - basicLogger - INFO - Period processing ending
+2022-11-01 10:29:55,195 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:29:55,195 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:30:00,177 - basicLogger - INFO - Number of ph level events received 122
+2022-11-01 10:30:00,178 - basicLogger - INFO - Number of chlorine level events received 138
+2022-11-01 10:30:00,186 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:30:00,193 - basicLogger - INFO - Period processing ending
+2022-11-01 10:34:55,028 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:34:55,028 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:35:22,666 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:35:22,667 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:35:25,024 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:35:25,025 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:35:29,862 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:35:29,863 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:35:52,522 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:35:52,523 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:35:57,193 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:35:57,193 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:35:57,511 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:35:57,512 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:36:02,377 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:36:02,379 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:36:02,518 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:36:02,519 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:36:07,385 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:36:07,386 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:41:13,623 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:41:13,626 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:41:18,636 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:41:18,637 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:41:23,621 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:41:23,622 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:41:28,623 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:41:28,624 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:41:33,629 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:41:33,631 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:41:38,624 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:41:38,625 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:41:43,625 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:41:43,626 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:41:48,624 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:41:48,625 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:41:53,635 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:41:53,636 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:41:58,625 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:41:58,627 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:42:03,639 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:42:03,639 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:42:08,647 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:42:08,648 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:42:13,649 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:42:13,649 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:42:18,645 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:42:18,645 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:42:23,654 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:42:23,655 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:42:28,630 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:42:28,631 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:42:33,634 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:42:33,634 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:42:38,627 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:42:38,628 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:42:43,634 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:42:43,635 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:42:48,665 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:42:48,666 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:42:53,626 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:42:53,628 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:42:58,628 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:42:58,631 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:43:03,632 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:43:03,633 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:43:08,628 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:43:08,629 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:43:13,634 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:43:13,635 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:43:18,630 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:43:18,631 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:43:23,627 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:43:23,628 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:43:33,668 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:43:33,668 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:43:38,628 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:43:38,630 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:43:43,634 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:43:43,635 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:43:48,631 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:43:48,632 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:43:53,635 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:43:53,637 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:43:58,628 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:43:58,629 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:44:03,629 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:44:03,630 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:44:08,623 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:44:08,624 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:44:13,629 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:44:13,630 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:44:18,629 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:44:18,630 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:44:23,640 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:44:23,641 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:44:28,626 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:44:28,627 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:44:33,636 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:44:33,637 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:44:38,627 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:44:38,628 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:44:43,633 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:44:43,634 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:44:48,626 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:44:48,626 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:44:53,625 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:44:53,625 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:44:58,635 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:44:58,636 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:45:03,623 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:45:03,625 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:45:08,641 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:45:08,642 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:45:13,647 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:45:13,648 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:45:18,634 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:45:18,634 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:45:23,624 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:45:23,625 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:45:28,636 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:45:28,637 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:45:33,625 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:45:33,627 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:45:38,623 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:45:38,624 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:45:43,637 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:45:43,638 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:45:48,623 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:45:48,625 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:45:53,640 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:45:53,641 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:45:58,625 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:45:58,626 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:46:03,630 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:46:03,631 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:46:08,629 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:46:08,630 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:46:13,626 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:46:13,626 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:46:18,636 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:46:18,637 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:46:23,624 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:46:23,624 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:46:28,623 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:46:28,623 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:46:33,625 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:46:33,626 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:46:38,632 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:46:38,633 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:46:43,625 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:46:43,625 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:46:48,620 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:46:48,622 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:46:53,634 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:46:53,635 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:46:58,626 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:46:58,627 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:47:03,630 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:47:03,631 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:47:08,625 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:47:08,625 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:47:13,627 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:47:13,628 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:47:18,636 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:47:18,637 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:47:23,624 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:47:23,626 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:47:28,628 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:47:28,630 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:47:33,624 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:47:33,624 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:47:38,635 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:47:38,636 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:47:43,625 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:47:43,626 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:47:53,694 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:47:53,695 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:47:58,706 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:47:58,708 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:48:03,645 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:48:03,646 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:48:08,630 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:48:08,631 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:48:13,625 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:48:13,627 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:48:18,623 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:48:18,624 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:48:23,627 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:48:23,627 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:48:28,634 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:48:28,635 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:48:33,623 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:48:33,624 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:48:38,630 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:48:38,631 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:48:43,625 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:48:43,626 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:48:48,629 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:48:48,629 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:48:53,625 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:48:53,625 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:48:58,631 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:48:58,633 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:49:03,633 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:49:03,634 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:49:08,636 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:49:08,637 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:49:13,709 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:49:13,710 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:49:18,645 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:49:18,646 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:49:23,635 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:49:23,636 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:49:28,629 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:49:28,630 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:49:33,627 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:49:33,629 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:49:38,626 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:49:38,627 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:49:43,631 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:49:43,632 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:49:48,645 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:49:48,646 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:49:53,626 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:49:53,628 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:49:58,620 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:49:58,621 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:50:03,633 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:50:03,634 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:50:08,637 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:50:08,638 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:50:13,636 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:50:13,638 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:50:18,629 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:50:18,630 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:50:23,632 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:50:23,633 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:50:33,656 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:50:33,657 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:50:38,629 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:50:38,635 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:50:43,635 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:50:43,635 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:50:48,643 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:50:48,643 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:50:53,635 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:50:53,636 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:50:58,630 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:50:58,630 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:51:01,345 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:51:01,349 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:51:06,340 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:51:06,341 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:51:11,349 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:51:11,350 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:51:16,342 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:51:16,342 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:51:26,352 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:51:26,353 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:51:36,344 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:51:36,345 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:51:53,133 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:51:53,138 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:51:58,126 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:51:58,127 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:52:03,131 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:52:03,132 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:52:13,122 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:52:13,123 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:52:23,130 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:52:23,131 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:52:28,130 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:52:28,131 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:52:33,132 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:52:33,133 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:52:38,130 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:52:38,131 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:52:43,128 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:52:43,128 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:52:48,126 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:52:48,126 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:53:24,201 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:53:24,204 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:54:22,307 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:54:22,311 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:54:27,309 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:54:27,310 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:54:32,323 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:54:32,324 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:59:52,050 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:59:52,051 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 10:59:56,962 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:59:56,962 - basicLogger - ERROR - Status code received 500
+2022-11-01 10:59:57,049 - basicLogger - INFO - Period processing has been started
+2022-11-01 10:59:57,049 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 11:00:01,790 - basicLogger - ERROR - Status code received 500
+2022-11-01 11:00:01,790 - basicLogger - ERROR - Status code received 500
+2022-11-01 11:00:25,193 - basicLogger - INFO - Period processing has been started
+2022-11-01 11:00:25,196 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 11:00:29,976 - basicLogger - ERROR - Status code received 500
+2022-11-01 11:00:29,977 - basicLogger - ERROR - Status code received 500
+2022-11-01 11:00:30,193 - basicLogger - INFO - Period processing has been started
+2022-11-01 11:00:30,193 - basicLogger - INFO - Started Periodic Processing
+2022-11-01 11:00:35,273 - basicLogger - ERROR - Status code received 500
+2022-11-01 11:00:35,277 - basicLogger - ERROR - Status code received 500
