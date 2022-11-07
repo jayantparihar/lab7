@@ -43,13 +43,13 @@ export default function AppStats() {
 							<td># Ch: {stats['num_chlorine_level']}</td>
 						</tr>
 						<tr>
-							<td colspan="2">Max Ph level: {stats['max_phlevel_reading']}</td>
+							<td colSpan="2">Max Ph level: {stats['max_phlevel_reading']}</td>
 						</tr>
 						<tr>
-							<td colspan="2">Max Chlorine level: {stats['max_chlorine_level']}</td>
+							<td colSpan="2">Max Chlorine level: {stats['max_chlorine_level']}</td>
 						</tr>
 						<tr>
-							<td colspan="2">Max Water: {stats['max_water_level']}</td>
+							<td colSpan="2">Max Water: {stats['max_water_level']}</td>
 						</tr>
 					</tbody>
                 </table>

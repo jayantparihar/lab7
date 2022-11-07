@@ -49,7 +49,6 @@ def get_ph_level_readings(index):
             msg = json.loads(msg_str)
             logger.debug(msg['type'])
             if msg['type'] == 'ph_level':
-              
                lst.append(msg) 
         logger.debug(lst[index -1])  
         return lst[index], 201
