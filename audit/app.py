@@ -52,7 +52,7 @@ def get_ph_level_readings(index):
               
                lst.append(msg) 
         logger.debug(lst[index -1])  
-        return lst[index - 1], 201
+        return lst[index], 201
     # Find the event at the index you want and
     # return code 200
     # i.e., return event, 200
@@ -85,7 +85,7 @@ def get_chlorine_level_readings(index):
             logger.debug(msg)
             if msg['type'] == 'chlorine_level':
                lst.append(msg) 
-        return lst[index - 1], 201
+        return lst[index], 201
     # Find the event at the index you want and
     # return code 200
     # i.e., return event, 200
