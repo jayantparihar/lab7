@@ -77,6 +77,7 @@ def populate_stats():
         max_chlorine_level = results[0].max_chlorine_level
         max_water_level = results[0].max_water_level
         num_chlorine_level = results[0].num_chlorine_level + len(chlorine_list)
+        last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
   
     
     except IndexError:
@@ -85,7 +86,7 @@ def populate_stats():
         max_chlorine_level = 0
         max_water_level =0
         num_chlorine_level = len(chlorine_list)
-    
+        last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
     last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
 
     session = DB_SESSION()
