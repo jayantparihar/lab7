@@ -101,8 +101,6 @@ def populate_stats():
     #   if i["waterlevel"] > max_water_level:
     #     max_water_level = i["waterlevel"] 
 
-    session = DB_SESSION()
-
     stats = Stats(num_phlevel_reading,
         max_phlevel_reading,
         max_water_level,
