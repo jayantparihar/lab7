@@ -53,16 +53,16 @@ def populate_stats():
     #print("last updated ---------------------- ", str(results[0].last_updated))
     headers = {"content-type": "application/json"}
 
-    response_orders_received = requests.get(url1, headers=headers)
-    response_damaged_parts = requests.get(url2, headers=headers)
+    response_ph_level = requests.get(url1, headers=headers)
+    response_chlorine_level = requests.get(url2, headers=headers)
 
-    ph_list = response_orders_received.json() 
-    chlorine_list = response_damaged_parts.json()
+    ph_list = response_ph_level.json() 
+    chlorine_list = response_chlorine_level.json()
 
     logger.info(f"Number of ph level events received {results[0].num_phlevel_reading}")
     logger.info(f"Number of chlorine level events received {results[0].num_chlorine_level}")
-    if response_orders_received.status_code != 200: 
-        logger.error(f"Status code received {response_orders_received.status_code}")
+    if response_ph_level.status_code != 200: 
+        logger.error(f"Status code received {response_ph_level.status_code}")
 
 
     try:
