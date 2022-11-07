@@ -91,7 +91,6 @@ def populate_stats():
 
     session = DB_SESSION()
     for i in ph_list:
-        logger.debug(f"new event with a trace id of {i['trace_id']}")
         if i["phlevel"] >  max_phlevel_reading:
             max_phlevel_reading = i["phlevel"] 
         if i["waterlevel"] > max_water_level:
