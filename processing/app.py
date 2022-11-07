@@ -31,7 +31,7 @@ def get_stats():
     session = DB_SESSION()
     results = session.query(Stats).order_by(Stats.last_updated.desc())
     session.close()
-    return results[-1].to_dict(), 200
+    return results[0].to_dict(), 200
 
 def populate_stats():
     """ Periodically update stats """
