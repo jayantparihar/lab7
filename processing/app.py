@@ -63,8 +63,14 @@ def populate_stats():
     response_ph_level = requests.get(url1, headers=headers)
     response_chlorine_level = requests.get(url2, headers=headers)
 
+
     ph_list = response_ph_level.json() 
     chlorine_list = response_chlorine_level.json()
+    logger.info(f"List of damaged parts - {ph_list}")
+    logger.info(f" Length = {len(ph_list)}")
+
+    logger.info(f"List of damaged parts - {chlorine_list}")
+    logger.info(f" Length = {len(chlorine_list)}")
 
     logger.info(f"Number of ph level events received {results[0].num_phlevel_reading}")
     logger.info(f"Number of chlorine level events received {results[0].num_chlorine_level}")
@@ -85,7 +91,7 @@ def populate_stats():
         num_phlevel_reading = len(ph_list)
         max_phlevel_reading = 0
         max_chlorine_level = 0
-        max_water_level =0
+        max_water_level = 0
         num_chlorine_level = len(chlorine_list)
         last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
 
