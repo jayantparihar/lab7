@@ -148,7 +148,7 @@ components:
           type: number
           example: 12345
         device_id:
-          type: number
+          type: string
           example: 12345
         phlevel:
           type: number
