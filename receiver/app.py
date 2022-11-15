@@ -32,6 +32,9 @@ def generate_trace_id():
     return trace_id
 
 def report_ph_level(body):  
+    current_retrive = 0
+    max_retrive =20
+    time_in_seconds=5
     traceid =  generate_trace_id()
     body["trace_id"] = traceid
     logger.info("Received event PH level request with a unique id of %s"%body["trace_id"] )

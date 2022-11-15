@@ -45,16 +45,17 @@ def populate_stats():
     session = DB_SESSION()
     results = session.query(Stats).order_by(Stats.last_updated.desc())
     logger.info('Started Periodic Processing')
+    current_timestamp = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
     try:
         last_updated = str(results[0].last_updated)
         a,b = last_updated.split(" ")
-        url1 = app_config["phlevel"]["url"]+a+'T'+b
-        url2 = app_config["chlorinelevel"]["url"]+a+'T'+b
-    
+        url1 = app_config["orders/received"]["url"]+a+'T'+b+"&end_timestamp="+current_timestamp
+        url2 = app_config["parts/damaged"]["url"]+a+'T'+b+"&end_timestamp="+current_timestamp
+
     except IndexError:
         last_updated = '2016-08-29T09:12:33.001000'
-        url1 = app_config["phlevel"]["url"]+last_updated
-        url2 = app_config["chlorinelevel"]["url"]+last_updated
+        url1 = app_config["orders/received"]["url"]+last_updated+"&end_timestamp="+current_timestamp
+        url2 = app_config["parts/damaged"]["url"]+last_updated+"&end_timestamp="+current_timestamp
 
     #print("last updated ---------------------- ", str(results[0].last_updated))
     headers = {"content-type": "application/json"}

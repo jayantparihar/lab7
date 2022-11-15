@@ -1,4 +1,7 @@
 version: 1
+exception:
+  retry_limit: 10
+  sleep: 5
 datastore:
   user: root
   password: password
