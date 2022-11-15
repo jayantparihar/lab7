@@ -49,8 +49,8 @@ def populate_stats():
     try:
         last_updated = str(results[0].last_updated)
         a,b = last_updated.split(" ")
-        url1 = app_config["phlevel"]["url"]+last_updated+"&end_timestamp="+current_timestamp
-        url2 = app_config["chlorinelevel"]["url"]+last_updated+"&end_timestamp="+current_timestamp
+        url1 = app_config["phlevel"]["url"]+a+'T'+b+"&end_timestamp="+current_timestamp
+        url2 = app_config["chlorinelevel"]["url"]+a+'T'+b+"&end_timestamp="+current_timestamp
 
     except IndexError:
         last_updated = '2016-08-29T09:12:33.001000'
