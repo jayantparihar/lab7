@@ -1,0 +1,9 @@
+version: 1
+phlevel:
+  url: http://localhost:8090/phlevel
+chlorinelevel:
+  url: http://localhost:8090/chlorinelevel
+events:
+  hostname: acit3855.westus3.cloudapp.azure.com
+  port: 9092
+  topic: events

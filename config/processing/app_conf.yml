@@ -1,0 +1,9 @@
+version: 1
+datastore:
+  filename: stats.sqlite
+scheduler:
+  period_sec: 5
+phlevel:
+  url: http://acit3855.westus3.cloudapp.azure.com:8090/phlevel?timestamp=
+chlorinelevel:
+  url: http://acit3855.westus3.cloudapp.azure.com:8090/chlorinelevel?timestamp=
