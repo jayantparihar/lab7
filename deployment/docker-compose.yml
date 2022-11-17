@@ -7,6 +7,7 @@ services:
     hostname: zookeeper
     volumes:
      - /home/azureuser/lab7/zookeeper/data:/opt/zookeeper-3.4.13/data
+     - /home/azureuser/lab7/logs:/logs
   kafka:
     image: wurstmeister/kafka
     command: [start-kafka.sh]
@@ -26,6 +27,7 @@ services:
     volumes:
       - /var/run/docker.sock:/var/run/docker.sock
       - /home/azureuser/lab7/kafka:/kafka/kafka-logs
+      - /home/azureuser/lab7/logs:/logs
     depends_on:
       - "zookeeper"
   receiver:
@@ -35,6 +37,7 @@ services:
     environment:
     - TARGET_ENV=test
     volumes:
+    - /home/azureuser/lab7/logs:/logs
     - /home/azureuser/lab7/config/receiver:/config
     depends_on:
     - "kafka"
@@ -46,6 +49,7 @@ services:
     environment:
     - TARGET_ENV=test
     volumes:
+    - /home/azureuser/lab7/logs:/logs
     - /home/azureuser/lab7/config/storage:/config
     depends_on:
     - "kafka"
@@ -58,6 +62,7 @@ services:
     environment:
     - TARGET_ENV=test
     volumes:
+    - /home/azureuser/lab7/logs:/logs
     - /home/azureuser/lab7/config/processing:/config
     depends_on:
     - "storage"
@@ -70,6 +75,7 @@ services:
     environment:
     - TARGET_ENV=test
     volumes:
+    - /home/azureuser/lab7/logs:/logs
     - /home/azureuser/lab7/config/audit_log:/config
     depends_on:
     - "kafka"
@@ -81,6 +87,9 @@ services:
     depends_on:
     - "processing"
     - "audit"
+    volumes:
+    - /home/azureuser/lab7/logs:/logs
+
 
   db:
     image: mysql:5.7
@@ -101,6 +110,7 @@ services:
       - '3306'
 # Where our data will be persisted
     volumes:
+      - /home/azureuser/lab7/logs:/logs
       - my-db:/var/lib/mysql
 # Names our volume
 volumes:
