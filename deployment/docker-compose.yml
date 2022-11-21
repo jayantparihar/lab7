@@ -64,6 +64,7 @@ services:
     volumes:
     - /home/azureuser/lab7/logs:/logs
     - /home/azureuser/lab7/config/processing:/config
+    - processing-db:/data
     depends_on:
     - "storage"
     network_mode: "host"
@@ -115,3 +116,4 @@ services:
 # Names our volume
 volumes:
   my-db:
+  processing-db:

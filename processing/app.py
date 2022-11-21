@@ -14,6 +14,30 @@ from apscheduler.schedulers.background import BackgroundScheduler
 from flask_cors import CORS, cross_origin
 import os
 
+def create_database(path):
+    conn = sqlite3.connect(path)
+    c = conn.cursor()
+    c.execute('''
+    CREATE TABLE stats
+    (id INTEGER PRIMARY KEY ASC,
+    num_phlevel_reading INTEGER NOT NULL,
+    max_phlevel_reading INTEGER NOT NULL,
+    max_water_level INTEGER,
+    max_chlorine_level INTEGER,
+    num_chlorine_level INTEGER,
+    last_updated VARCHAR(100) NOT NULL)
+''')
+    conn.commit()
+    conn.close()
+
+path = '/data/data.sqlite'
+isExist = os.path.exists(path)
+if isExist == True:
+    print("Exists")
+else:
+    create_database(path)
+
+
 if "TARGET_ENV" in os.environ and os.environ["TARGET_ENV"] == "test":
     print("In Test Environment")
     app_conf_file = "/config/app_conf.yml"
@@ -34,7 +58,7 @@ logger = logging.getLogger('basicLogger')
 
 logger.info("App Conf File: %s" % app_conf_file)
 logger.info("Log Conf File: %s" % log_conf_file)
-DB_ENGINE = create_engine("sqlite:///stats.sqlite")
+DB_ENGINE = create_engine(f"sqlite:///{path}")
 #DB_ENGINE = create_engine("sqlite:///%s" %app_config["datastore"]["filename"])
 Base.metadata.bind = DB_ENGINE
 DB_SESSION = sessionmaker(bind=DB_ENGINE)
