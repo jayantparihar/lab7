@@ -72,7 +72,7 @@ services:
   health:
     image: health
     ports:
-    - "8120"
+    - "8120:8120"
     environment: 
     - TARGET_ENV=test
     volumes:
