@@ -10,7 +10,7 @@ storage:
 processing:
     url: "http://acit3855.westus3.cloudapp.azure.com:8100/health"
 audit:
-    url: "http://acit3855.westus3.cloudapp.azure.com:8110/audit_log/health"
+    url: "http://acit3855.westus3.cloudapp.azure.com:8110/audit/health"
 phlevel:
   url: http://acit3855.westus3.cloudapp.azure.com:8090/phlevel?timestamp=
 chlorinelevel:
