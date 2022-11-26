@@ -78,7 +78,7 @@ def populate_health():
         response_receiver = requests.get(url_receiver, headers=headers)
         if response_receiver.status_code == 200:
             receiver = "Service is running" 
-            logger.info(f"Status code received {response_receiver.status_code}")
+            logger.info(f"Status code received {response_receiver.status_code} for receiver")
         else:
             receiver = "Service is Down"
     except:
@@ -88,7 +88,7 @@ def populate_health():
         response_storage = requests.get(url_storage, headers=headers)
         if response_storage.status_code == 200:
             storage = "Service is running" 
-            logger.info(f"Status code received {response_storage.status_code}")
+            logger.info(f"Status code received {response_storage.status_code} for storage")
         else:
             storage = "Service is Down"
     except:
@@ -98,7 +98,7 @@ def populate_health():
         response_processing = requests.get(url_processing, headers=headers)
         if response_processing.status_code == 200:
             processing = "Service is running" 
-            logger.info(f"Status code received {response_processing.status_code}")
+            logger.info(f"Status code received {response_processing.status_code} for processing")
         else:
             processing = "Service is Down"
     except:
@@ -108,7 +108,7 @@ def populate_health():
         response_audit = requests.get(url_audit, headers=headers)
         if response_audit.status_code == 200:
             audit = "Service is running" 
-            logger.info(f"Status code received {response_audit.status_code}")
+            logger.info(f"Status code received {response_audit.status_code} for audit")
         else:
             audit = "Service is Down"
     except:
