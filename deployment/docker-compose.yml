@@ -82,7 +82,7 @@ services:
     - "storage"
     - "receiver"
     - "processing"
-    - "audit_log"
+    - "audit"
     
   audit:
     image: audit
