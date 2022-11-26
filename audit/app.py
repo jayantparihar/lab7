@@ -101,6 +101,12 @@ def get_chlorine_level_readings(index):
         logger.error("No more messages found")
         logger.error("Could not find chlorine_level at index %d" % index)
         return { "message": "Not Found"}, 404
+        
+def health_check():
+    logger.info("Checking for health")
+    dictionary = {"message" : "running"}
+    return dictionary, 200
+
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yaml")
 CORS(app.app)

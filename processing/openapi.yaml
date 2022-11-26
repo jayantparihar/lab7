@@ -11,6 +11,31 @@ tags:
 - name: Swimming pool testing 
   description: Swimming pool testing
 paths:
+  /health:
+    get:
+      tags:
+        - devices
+      summary: gets the event stats
+      operationId: app.health_check
+      description: Gets orders received and damaged parts statistics
+      responses:
+        '200':
+          description: Successfully returned a list of orders received and damaged parts events
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/Health'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
   /stats:
     get:
       tags:
@@ -39,6 +64,14 @@ paths:
 
 components:
   schemas:
+    Health:
+      required:
+      - processing
+      type: object
+      properties:
+        processing:
+          type: string
+          example: A12345
     ReadingStats:
       required:
       - num_phlevel_reading

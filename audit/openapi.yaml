@@ -6,6 +6,31 @@ info:
   contact:
     email: pariharjayant@yahoo.com
 paths:
+  /health:
+    get:
+      tags:
+        - devices
+      summary: gets the event stats
+      operationId: app.health_check
+      description: Successfully returned health of service
+      responses:
+        '200':
+          description: Successfully returned health of service
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/Health'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
   /phlevel:
     get:
       summary: Gets ph level from history
@@ -79,6 +104,14 @@ paths:
           description: Not Found
 components:
   schemas:
+    Health:
+      required:
+      - audit
+      type: object
+      properties:
+        audit:
+          type: string
+          example: A12345
     PHlevel:
       required:
       - location

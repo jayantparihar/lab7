@@ -68,6 +68,21 @@ services:
     depends_on:
     - "storage"
     network_mode: "host"
+
+  health:
+    image: health
+    ports:
+    - "8120"
+    environment: 
+    - TARGET_ENV=test
+    volumes:
+    - /home/azureuser/lab7/logs:/logs
+    - /home/azureuser/lab7/config/healthg:/config
+    depends_on:
+    - "storage"
+    - "receiver"
+    - "processing"
+    - "audit_log"
     
   audit:
     image: audit

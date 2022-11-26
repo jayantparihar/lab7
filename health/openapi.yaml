@@ -1,0 +1,63 @@
+---
+openapi: 3.0.0
+info:
+  title: Stats API
+  description: The API provides event stats
+  contact:
+    email: jparihar2@my.bcit.ca
+  version: 1.0.0
+servers:
+- url: /
+tags:
+- name: ez-fulfillment application
+  description: fulfillment team can see orders within this application
+paths:
+  /health:
+    get:
+      tags:
+        - devices
+      summary: gets the event stats
+      operationId: app.get_stats
+      description: Gets ph and chlorine level statistics
+      responses:
+        '200':
+          description: Successfully got the status of the service
+          content:
+            application/json:
+              schema:
+                type: object
+                items:
+                  $ref: '#/components/schemas/ReadingStats'
+        '400':
+          description: Invalid request
+          content:
+            application/json:
+              schema:
+                type: object
+                properties:
+                  message:
+                    type: string
+
+components:
+  schemas:
+    ReadingStats:
+      required:
+      - receiver
+      - storage
+      - processing
+      - audit
+      type: object
+      properties:
+        receiver:
+          type: string
+          example: running
+        storage:
+          type: string
+          example: running
+        processing:
+          type: string
+          example: running
+        audit:
+          type: string
+          example: running
+    

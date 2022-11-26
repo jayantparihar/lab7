@@ -94,6 +94,12 @@ def report_chlorine_level(body):
     producer.produce(msg_str.encode('utf-8'))
     logger.debug(msg_str)
     return NoContent, 201
+    
+def health_check():
+    logger.info("Checking for health")
+    dictionary = {"message" : "running"}
+    return dictionary, 200
+    
 
 
 app = connexion.FlaskApp(__name__, specification_dir='')

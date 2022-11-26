@@ -174,7 +174,11 @@ def process_messages():
             logger.error(f"Connection to Kafka Failed {e}")
             time.sleep(sleep_time)
             current_count += 1
-
+def health_check():
+    logger.info("Checking for health")
+    dictionary = {"message" : "running"}
+    return dictionary, 200
+    
 app = connexion.FlaskApp(__name__, specification_dir='')
 app.add_api("openapi.yaml",
         strict_validation=True,
