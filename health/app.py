@@ -113,6 +113,7 @@ def populate_health():
             audit = "Service is Down"
     except:
         audit = "Service is Down"
+        logger.info(f"Status code received {response_audit.status_code} for audit")
     
     last_updated = datetime.datetime.now().strftime("%Y-%m-%dT%H:%M:%S.%f")
     session = DB_SESSION()
