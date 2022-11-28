@@ -71,7 +71,7 @@ services:
     - processing-db:/data
     depends_on:
     - "storage"
-    network_mode: "host"
+
 
   health:
     image: health
