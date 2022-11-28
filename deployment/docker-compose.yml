@@ -71,6 +71,8 @@ services:
     - processing-db:/data
     depends_on:
     - "storage"
+    networks:
+      - "api.network"
 
 
   health:
@@ -99,6 +101,8 @@ services:
     - /home/azureuser/lab7/config/audit_log:/config
     depends_on:
     - "kafka"
+    networks:
+      - "api.network"
 
   dashboard:
     image: dashboard
