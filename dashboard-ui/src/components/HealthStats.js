@@ -8,7 +8,7 @@ export default function HealthStats() {
 
 	const getStats = () => {
 	
-        fetch(`http://acit3855.westus3.cloudapp.azure.com:8120/health/health`)
+        fetch(`http://acit3855.westus3.cloudapp.azure.com/health/health`)
             .then(response => response.json())
             //.then(response => console.log(JSON.stringify(response)))
             .then((result)=>{
