@@ -4,14 +4,14 @@ datastore:
 scheduler:
   period_sec: 5
 receiver:
-    url: "http://acit3855.westus3.cloudapp.azure.com:8080/health"
+    url: "http://acit3855.westus3.cloudapp.azure.com/receiver:/health"
 storage:
-    url:  "http://acit3855.westus3.cloudapp.azure.com:8090/health"
+    url:  "http://acit3855.westus3.cloudapp.azure.com/receiver/health"
 processing:
     url: "http://acit3855.westus3.cloudapp.azure.com:8100/health"
 audit:
     url: "http://acit3855.westus3.cloudapp.azure.com:8110/health"
 phlevel:
-  url: http://acit3855.westus3.cloudapp.azure.com:8090/phlevel?timestamp=
+  url: http://acit3855.westus3.cloudapp.azure.com/storage/phlevel?timestamp=
 chlorinelevel:
-  url: http://acit3855.westus3.cloudapp.azure.com:8090/chlorinelevel?timestamp=
+  url: http://acit3855.westus3.cloudapp.azure.com/storage/chlorinelevel?timestamp=
