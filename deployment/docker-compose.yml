@@ -89,6 +89,8 @@ services:
     - "receiver"
     - "processing"
     - "audit"
+    networks:
+      - "api.network"
     
   audit:
     image: audit
