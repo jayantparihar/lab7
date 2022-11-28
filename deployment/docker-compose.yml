@@ -121,8 +121,8 @@ services:
     depends_on:
       - "receiver"
       - "storage"
-      - "processing"
       - "audit"
+      - "processing"
       - "dashboard"
     # Connects the port 80 of the nginx container to localhost:80 or localhost
     ports:
