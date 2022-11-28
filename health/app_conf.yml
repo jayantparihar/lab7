@@ -6,11 +6,11 @@ scheduler:
 receiver:
     url: "http://acit3855.westus3.cloudapp.azure.com/receiver:/health"
 storage:
-    url:  "http://acit3855.westus3.cloudapp.azure.com/receiver/health"
+    url:  "http://acit3855.westus3.cloudapp.azure.com/storage/health"
 processing:
-    url: "http://acit3855.westus3.cloudapp.azure.com:8100/health"
+    url: "http://acit3855.westus3.cloudapp.azure.com/processing/health"
 audit:
-    url: "http://acit3855.westus3.cloudapp.azure.com:8110/health"
+    url: "http://acit3855.westus3.cloudapp.azure.com/audit/health"
 phlevel:
   url: http://acit3855.westus3.cloudapp.azure.com/storage/phlevel?timestamp=
 chlorinelevel:
